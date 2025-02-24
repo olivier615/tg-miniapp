@@ -1,5 +1,5 @@
 <template>
-  <h1>{{route.query.chatId}}</h1>
+  <h1>{{route.query.tgid}}</h1>
 </template>
 <script setup>
 const route = useRoute();
