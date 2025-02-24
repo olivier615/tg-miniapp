@@ -8,8 +8,6 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "bot:dev": "node bot/index.cjs",
-    "start": "node bot/index.cjs"
   },
   "dependencies": {
     "dotenv": "^16.4.7",
